@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gary-crowe
-- 👀 I’m interested in ansible, terraform, bash scripting and all forms of automation.
-- 🌱 I’m currently learning terraform and Azure
-- 💞️ I’m looking to collaborate on automation
+- 👀 I’m interested in ansible, container tech, openshift, terraform, bash scripting and all forms of automation.
+- 🌱 I’m currently looking at Flask/Service Mesh
+- 💞️ I’m looking to collaborate on automation/container tech
 - 📫 Drop me an email.
 
 <!---
